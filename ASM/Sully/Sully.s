@@ -10,7 +10,7 @@ main:
 	mov		rbp, rsp
 	sub		rsp, 32
 
-	mov		r12, 50
+	mov		r12, 5
 	cmp		r12, 0
 	jl		.end
 
